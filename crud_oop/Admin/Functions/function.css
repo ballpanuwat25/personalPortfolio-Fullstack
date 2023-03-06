@@ -1,0 +1,27 @@
+.my-table {
+    border-collapse: collapse; /* merges the borders of adjacent cells */
+    width: 100%; /* set the width of the table */
+    font-size: 16px; /* set the font size of the table */
+    color: #333; /* set the font color of the table */
+    background-color: #f5f5f5; /* set the background color of the table */
+  }
+
+  .my-table th {
+    font-weight: bold; /* set the font weight of table headers */
+    text-align: left; /* align table headers to the left */
+    background-color: #ddd; /* set the background color of table headers */
+    padding: 10px; /* add padding to table headers */
+  }
+  
+  .my-table tr {
+    border-bottom: 1px solid #ddd; /* add a border to separate table rows */
+  }
+  
+  .my-table tr:nth-child(even) {
+    background-color: #f2f2f2; /* set a background color for even table rows */
+  }
+
+  .my-table td {
+    padding: 10px; /* add padding to table cells */
+    border-top: 1px solid #ddd; /* add a border to separate table cells */
+  }
