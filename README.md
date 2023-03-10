@@ -45,4 +45,4 @@ This project is licensed under the [MIT License](https://github.com/ballpanuwat2
 
 ## Credits
 
-This project was created by Panuwat Pisavong.
+This project was created by Ball Panuwat.
