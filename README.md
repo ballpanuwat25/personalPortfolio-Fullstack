@@ -9,6 +9,14 @@ This is a personal portfolio website created using HTML, CSS, Bootstrap, JavaScr
 -   Search function to quickly locate specific projects
 -   Database connection with phpMyAdmin for data storage
 
+## Project preview 
+
+![Portfoliowebsite](https://user-images.githubusercontent.com/79345283/224250882-ba277b62-abf7-4f70-8300-66ad7b7547dd.gif)
+*Home page.*
+
+![image](https://user-images.githubusercontent.com/79345283/224250105-f3115391-ac2c-4055-8fce-3db6b26d9bd5.png)
+*This is a projectlist page to create edit delete and search.*
+
 ## Requirements
 
 -   Web server (e.g. Apache, Nginx)
