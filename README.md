@@ -41,7 +41,7 @@ This is a personal portfolio website created using HTML, CSS, Bootstrap, JavaScr
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ballpanuwat25/responsive_personal_portfolio_website/blob/71ab86cb6eb45a24a6935904c10a3c96ad04bdca/licence). See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ballpanuwat25/responsive_personal_portfolio_website/blob/71ab86cb6eb45a24a6935904c10a3c96ad04bdca/licence) file for more information.
 
 ## Credits
 
